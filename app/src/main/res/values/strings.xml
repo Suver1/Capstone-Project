@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Tilbud</string>
+    <string name="pin_headline">Mine tilbud</string>
+    <string name="about_offers">Tilbudene er hentet fra Prisguide.no sin tilbudsmotor&#8320;</string>
+    <string name="about_app">Appen er laget av&#8320;</string>
+
+    <string name="desc_action_logo">Alle tilbud</string>
+    <string name="desc_action_pin">Mine tilbud</string>
+    <string name="desc_action_overflow">Meny</string>
+    <string name="desc_action_about">Om tilbud og appen</string>
+    <string name="desc_item_share">Del tilbudet</string>
+    <string name="desc_item_pin">Husk tilbudet</string>
+
+    <string name="dummy_data">[{"id":247247,"title":"Sony SRS-XB3","url":"https:\/\/www.prisguide.no\/produkt\/sony-srs-xb3-247247","price":{"now":1190,"before":1436,"diff":246,"ratio":17},"image":"https:\/\/img.prisguide.no\/1659\/1659317\/SRS_XB3_front_right_blk.250x174t.jpg","category":"Portabel h\u00f8yttaler"},{"id":246201,"title":"Samsung Galaxy A3 (2016)","url":"https:\/\/www.prisguide.no\/produkt\/samsung-galaxy-a3-2016-246201","price":{"now":1995,"before":2590,"diff":595,"ratio":23},"image":"https:\/\/img.prisguide.no\/1658\/1658857\/original.123x250t.jpg","category":"Mobiltelefon"}]</string>
 </resources>
